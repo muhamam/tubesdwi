@@ -1,0 +1,9 @@
+cara mengganti file yang ada pada git.hub 
+
+pertama ke view pada xisual code trus cari menu terminal kemudain masukan terminal default yaitu 
+bash tekan tombnol + lalu krtik kan di terminal nya : 
+git add.
+
+git commit -m "mengubah"
+
+git push
